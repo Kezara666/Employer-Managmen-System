@@ -4,7 +4,6 @@
 [![C# version](https://img.shields.io/badge/C%23-%3E%3D%207.0-brightgreen.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![MS SQL version](https://img.shields.io/badge/MS%20SQL-%3E%3D%202012-brightgreen.svg)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-![Employee Management System](https://user-images.githubusercontent.com/87107996/128591883-d50c4c4f-7b4c-47ad-b7b1-6f08a7f058a6.png)
 
 ## Description
 This project is an employee management system that allows companies to manage their employee data in a centralized database. The system allows HR managers to add, edit, and delete employee information, as well as generate reports on employee data.
@@ -55,6 +54,6 @@ This project is licensed under the MIT License.
 
 Feel free to customize this template to fit your specific project needs. Good luck with your project!
 ```
-![Employee Management System](https://user-images.githubusercontent.com/87107996/214102284-f537eeb1-7f66-4ec8-91bf-fe29d645df7e.png)
+![image](https://user-images.githubusercontent.com/87107996/227775868-660f0364-6167-4ed4-b543-ee68f0d2a046.png)
 
 
