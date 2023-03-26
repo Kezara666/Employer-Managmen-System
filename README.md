@@ -1,9 +1,4 @@
-# Employer-Managmen-System
-Employer Management System
-Developed from Kesara Lakshan 
-Cantact 0768000534
 
-string readmeContent = @"
 # Employee Management System
 
 [![C# version](https://img.shields.io/badge/C%23-%3E%3D%207.0-brightgreen.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
