@@ -60,5 +60,6 @@ This project is licensed under the MIT License.
 
 Feel free to customize this template to fit your specific project needs. Good luck with your project!
 ```
-https://user-images.githubusercontent.com/87107996/214102284-f537eeb1-7f66-4ec8-91bf-fe29d645df7e.png
+![Employee Management System](https://user-images.githubusercontent.com/87107996/214102284-f537eeb1-7f66-4ec8-91bf-fe29d645df7e.png)
+
 
