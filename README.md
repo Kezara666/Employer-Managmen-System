@@ -16,7 +16,7 @@ This project is an employee management system that allows companies to manage th
 - Generate reports on employee data (e.g. employee directory, employee contact list)
 
 ## Technologies Used
-- Backend: C# (.NET Framework or .NET Core)
+- Backend: C# (.NET Framework)
 - Database: MS SQL Server
 
 ## Prerequisites
